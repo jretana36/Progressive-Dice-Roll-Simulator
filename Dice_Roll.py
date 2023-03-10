@@ -1,5 +1,5 @@
-import random
 import time
+import random
 print("Welcome to the dice roll simulator!")
 minimum_Value = 1
 maximum_Value = 6
